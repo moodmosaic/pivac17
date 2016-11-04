@@ -9,7 +9,7 @@
 title: Pivac17.eu
 email: baxevanis@ciic.gr
 description: > # this means to ignore newlines until "baseurl:"
-  17 th International Conference on Progress in Vaccination Against Cancer
+  17th International Conference on Progress in Vaccination Against Cancer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pivac17.eu" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
